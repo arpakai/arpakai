@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arpakai
-- 👀 I’m interested in python, arduino and Automotive Engineering.
+- 👀 I’m interested in python, arduino, stm32, c++ and Automotive Engineering.
 - 🌱 I’m currently learning python and arduino
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me cemalhoysaloglu@gmail.com or kozznow1258@gmail.com
